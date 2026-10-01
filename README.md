@@ -8,12 +8,12 @@ This is a team lab for 3 to 4 people. You will run a real team workflow on a uni
 
 ## Team members
 
-| Name | GitHub username |
-|------|-----------------|
-| | |
-| | |
-| | |
-| | |
+| Name                  | GitHub username         |
+|-----------------------|-------------------------|
+| Daniel Escartín       | danielescartin          |
+| María Rosario Canalda | Maria-ap4               |
+| Pablo García          | pablogarciaalonso03-gif |
+| Daniel Rello          | CloudyDanielR888        |
 
 ## Lab rules
 
