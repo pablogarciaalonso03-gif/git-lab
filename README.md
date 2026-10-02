@@ -60,7 +60,7 @@ By the end of the lab you will be able to:
 
 ## Pre-lab: repository setup
 
-Before you start, you need Git installed and a GitHub account. You do not need Java: the automated checks compile the code for you on GitHub. Install it only if you want to run the menu on your own machine.
+Before you start, you need Git installed and a GitHub account. You do not need Java: the automated checks compile the code for you on GitHub. Install it only if you want to run the menu on your own machine. 
 
 **On Windows, use Git Bash**, which comes with Git for Windows. The Git commands themselves work the same in PowerShell, but everything else about this lab assumes a Unix-style shell, and PowerShell and CMD each have their own way of doing the simplest things. Git Bash gives you the same terminal your classmates on macOS and Linux are using.
 
