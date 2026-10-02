@@ -5,6 +5,5 @@ public class Food {
         System.out.println("Caesar Salad - $6.70");
         System.out.println("Chicken Sandwich - $6.76");
 
-        System.out.println("Burger - $16.99");
     }
 }
